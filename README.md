@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm M Gading Rizani</h1>
 <h3 align="center">I'm Currently learning Frontend</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=penantangmaut&show_icons=true&locale=en&layout=compact" alt="penantangmaut" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=penantangmaut&show_icons=true&locale=en&layout=compact" alt="mgdgrzn" /></p>
 
 
 <p align="left">
