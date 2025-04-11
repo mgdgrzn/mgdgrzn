@@ -8,7 +8,7 @@
 <p align="left">
 </p>
 </p>
-<p>- 👋 Halo, I’m @PenantangMaut. My real name is M Gading Rizani.</p> 
+<p>- 👋 Halo, I’m @mgdgrzn. My real name is M Gading Rizani.</p> 
 <p>- 👀 I’m interested in Frontend Web Development.</p>
 <p>- 🌱 I’m currently learning how to make a good website. I've finished several project in my github.</p>
 <p>- 📫 You can contact me at my gmail gadingrizani@gmail.com or just simply saying hi to my instagram account : @mgdgrzn_</p>
